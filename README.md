@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to use Unity and Visual Studio.
 - 💞️ I’m looking to collaborate on Beat Saber.
 - 📫 How to reach me: email otisdub@otisdub.com
-- 😄 Pronouns: He/They
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can beat GHOS7 in Beat Saber!
 
 <!---
