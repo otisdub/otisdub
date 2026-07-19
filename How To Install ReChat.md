@@ -40,7 +40,7 @@ Supported headsets: Quest 2, Quest Pro, Quest 3, Quest 3S
 
 
 
-1. Download the ReChat APK (currently unavailable.)
+1. Download the [ReChat APK](https://cdn.rechatvr.com/downloads/rechat-quest.apk)
 2. Download [AnExplorer VR File Manager](https://www.meta.com/experiences/anexplorer-vr-file-manager/6091443354290737/) from the Meta Quest Store
 3. In AnExplorer, go to Downloads > rechat-quest.apk
 4. Click INSTALL when the install prompt shows up (If you get a Parsing Error, troubleshoot [here](https://www.meta.com/experiences/quest/developer-post/1845596532729469/))
@@ -59,7 +59,7 @@ All PCs and Quest headsets are supported.
 
 
 
-1. On your computer, download the ReChat APK (currently unavailable.)
+1. On your computer, download the [ReChat APK](https://cdn.rechatvr.com/downloads/rechat-quest.apk).
 2. Download Android Platform Tools for [Windows](https://dl.google.com/android/repository/platform-tools-latest-windows.zip), [macOS](https://dl.google.com/android/repository/platform-tools-latest-darwin.zip), or [Linux](https://dl.google.com/android/repository/platform-tools-latest-linux.zip).
 
 3\. If you already have a Meta Quest developer organization **AND** you have developer mode on, skip to step 6. Otherwise, continue.
@@ -138,7 +138,7 @@ Requires an Apple ID that belongs to a user over the age of 13.
 
 
 1. Install [iloader](https://github.com/nab138/iloader/releases) and its dependencies.
-2. Download the ReChat IPA (currently unavailable.)
+2. Download the [ReChat IPA](https://cdn.rechatvr.com/downloads/rechat-ios.ipa).
 3. Sign in to iloader with your Apple ID.
 4. Plug in your iPhone or iPad with a Lightning or USB cable.
 5. Select your device and select **Trust**. A passcode is required for this step.
