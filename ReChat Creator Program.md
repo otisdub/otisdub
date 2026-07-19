@@ -23,3 +23,6 @@ We are currently finalizing the eligibility criteria.
 \-# Eligible creators are those who meet the requirements; these will be published soon.
 -# || @everyone ||
 
+# UPDATE: The *ReChat* Creator Program will Officially begin after reaching 300 members and after maintenance
+
+# The ReChat Creator Program is now in Early Application, Apply now and get your benefits when the Program is released.
