@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @otisdub
 - 👀 I’m interested in making new mods, games, and websites.
-- 🌱 I’m currently learning how to use Unity and Visual Studio.
+- 🌱 I’m currently learning how to get better at Geometry Dash.
 - 💞️ I’m looking to collaborate on Beat Saber.
 - 📫 How to reach me: email otisdub@otisdub.com
 - 😄 Pronouns: He/Him
